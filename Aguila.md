@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<md lang="es">
+<html lang="es">
 <head>
     <style type="text/css">
     .tipo1{font-family: 'Times New Roman', Times, serif; color: chartreuse; font-size: 40px; text-align: center;}
@@ -45,4 +45,4 @@
 <a href="index.html">Regresar a la pagina principal</a>
 </pre>
 </body>
-</md>
+</html>
